@@ -23,9 +23,3 @@ Learning is a journey—and this repo is my hands-on logbook. It helps me:
 
 Most files here are in active development. Some scripts may be experimental, others complete. I clean and update them over time.
 
-## ✅ How to Use
-
-Clone the repo and explore individual folders:
-```bash
-git clone https://github.com/YourUsername/coding-practice.git
-cd coding-practice
